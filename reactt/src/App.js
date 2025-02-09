@@ -2,7 +2,9 @@ import React from 'react';
 
 function App() {
 	return <div>
-		text
+		text вавав
+		<p>dsdsdsd</p>
+		<p class = "eee" >sdfafsd</p>
 	</div>;
 }
 
